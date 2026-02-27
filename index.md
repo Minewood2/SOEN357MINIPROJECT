@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # TABLE OF CONTENT
 
 1. Introduction
@@ -60,7 +51,7 @@ For the purpose of this research, a small survey was provided for individuals su
 
 > _Do you need to take medecine? If so, at what frequency?_
 
-![Response 2](assets/images/reponse2.png)
+![Response 2](assets/images/response2.png)
 
 > _Do you have any issue with your medication, e.g: such as forgetting to take it , taking the wrong one, etc?_
 
@@ -76,7 +67,7 @@ Most popular answer:
 
 > _Do you have regular doctor checkup? If so, at what frequency?_
 
-![Response 4](assets/images/reponse4.png)
+![Response 4](assets/images/response4.png)
 
 > _Do you have any issue with doctor appointment? e.g: Finding a doctor, forgetting doctor appointment ,etc._
 
@@ -207,7 +198,7 @@ Link: https://www.figma.com/proto/B5BRHYCrs8D4XHVyshdnxB/Chronic-Health-App?node
 Link: https://www.figma.com/proto/B5BRHYCrs8D4XHVyshdnxB/Chronic-Health-App?node-id=1-104&p=f&t=npWb2sVUbhg4aKh7-0&scaling=min-zoom&content-scaling=fixed&page-id=1%3A104&starting-point-node-id=26%3A3426
 
 
-![prototype](assets/images/prototype.png)
+![prototype](assets/images/protoype.png)
 
 
 This is my final mockup for the prototype. The interface is made in mind for my persona that is not tech savvy. It is easy to navigate with clear concise information that is not too overwhelming for the user.  It also completes the needs of both my personas. The app has a page to book an appointment, chat with a doctor or see scheduled appointments . They can also set reminders for medication as well as appointments. On the medication side, the persona is able to view how much medication is left and if he has taken it or not. This can be distinguished by the distinct color feedback of when it is taken, green and when it is not , red. 
