@@ -112,7 +112,7 @@ These are the main points to be focused on. Furthermore, an anonymous statistic 
 
 Here are two personas created for this UX/UI design:
 
-*Adam*
+**Adam**
 
 The first persona is Adam. Adam is young and works a lot. He has hypertension and diabetes and due to his work environment, often forgets to take his medication or which medication was already taken. This might cause serious issues if not corrected fast enough. That's why for Adam, this app will help him be on top of his medication with reminders and also track which medication he has already taken. It is important to be noted that Adam also is good with technology
 
@@ -131,7 +131,7 @@ Pain points:
 - Forgetting to take medication at dedicated time
 - Forgetting which medication was taken
 
-*Melissa* 
+**Melissa**
 
 On the other hand, the second persona is Melissa. Melissa is old and suffers from back pain and diabetes. She often forgets to go to the appointment with the doctor for her conditions which may cause them to worsen. On some nights, her back pain worsened and she needs a way to easily talk to a doctor.  That’s why Melissa needs to use this app. It will help her set reminders for her medical appointment as well has having an easy way to contact her health professional. It is also important to note that Melissa is not tech-savvy and would prefer a simple app.
 
@@ -154,11 +154,13 @@ Pain points:
 ## 4. User Journey Mappings
 * * *
 
-*Adam*
+
+**Adam**
 
 ![AdamUJM](assets/images/adamujn.png)
 
-*Melissa*
+**Melissa**
+
 ![MelissaUJM](assets/images/melissaujn.png)
 
 
