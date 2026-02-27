@@ -10,12 +10,18 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# 1.Introduction
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This blog focuses on the UX/UI design of a health companion app created to support people living and suffering from chronic health conditions. The app is designed to help users stay on top of important health-related tasks, such as taking medications on time, scheduling doctor appointments, and communicating with healthcare professionals. While each of these tasks may seem simple on its own, managing them consistently alongside everyday responsibilities can become overwhelming. As a result, individuals may miss medication doses or forget important follow-ups with their doctors.
 
-## Header 2
+Research indicates that individuals with chronic health conditions want mobile apps focused on timely reminders and medicine tracker. With this in mind, the proposed app is developed using a structured and user-centered UX/UI design approach to maximize its effectiveness.
 
+The design process starts with user research to better understand the needs, behaviors, and challenges of the target audience, followed by the creation of detailed user personas. A user journey map is then developed to outline key interaction steps and identify potential pain points. From there, low-fidelity wireframes and an interactive prototype are created to demonstrate the app’s functionality and navigation flow. Finally, a usability testing plan is implemented to evaluate the design, along with a reflection on the challenges encountered and lessons learned throughout the process.
+
+
+## 2.Research
+
+## 2.1 Survey
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
